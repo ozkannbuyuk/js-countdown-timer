@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  overflow-y: hidden;
+  background-color: #121212;
+}
+
+.timer {
+  background-color: #ddd;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 100px;
+  border-radius: 10px;
+  color: #121212;
+}
